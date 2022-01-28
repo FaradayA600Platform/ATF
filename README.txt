@@ -1,0 +1,1 @@
+make PLAT=l1 ARCH=aarch32 ARM_ARCH_MAJOR=7 AARCH32_SP=optee V=1
